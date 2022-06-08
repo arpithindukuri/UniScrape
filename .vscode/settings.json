@@ -1,0 +1,4 @@
+{
+    "code-runner.customCommand": "scrapy runspider ${file}",
+    "python.envFile": "${workspaceFolder}/env",
+}

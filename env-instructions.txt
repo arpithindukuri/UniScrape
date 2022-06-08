@@ -1,0 +1,5 @@
+1) run:
+    Set-ExecutionPolicy Unrestricted -Scope Process
+
+2) run:
+    .\env\Scripts\activate

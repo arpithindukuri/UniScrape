@@ -1,0 +1,18 @@
+{
+    "version": "0.1.0",
+    "configurations": [
+        {
+            "name": "Python: Launch Scrapy Spider",
+            "type": "python",
+            "request": "launch",
+            "module": "scrapy",
+            "args": [
+                "crawl",
+                "uofc_courses",
+                "-O",
+                "uofc_courses.json"
+            ],
+            "console": "integratedTerminal"
+        }
+    ]
+}
